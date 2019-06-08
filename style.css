@@ -1,0 +1,16 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: black;
+}
+.navBar {
+    background-color: grey;
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Consolas;
+
+}
